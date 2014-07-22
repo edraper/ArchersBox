@@ -16,5 +16,10 @@ namespace ArchersBox
         {
             InitializeComponent();
         }
+
+        public void func()
+        {
+            int i = 0;
+        }
     }
 }
