@@ -21,6 +21,7 @@ namespace ArchersBox
         {
             int i = 0;
             int b = 0;
+            int poo = 0;
         }
     }
 }
