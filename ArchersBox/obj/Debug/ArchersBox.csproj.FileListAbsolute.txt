@@ -1,1 +1,2 @@
 c:\users\edraper\documents\visual studio 2013\Projects\ArchersBox\ArchersBox\bin\Debug\ArchersBox.exe.config
+C:\Users\dpeter\Documents\Visual Studio 2013\Projects\Archer_Box\ArchersBox.git\trunk\ArchersBox\bin\Debug\ArchersBox.exe.config

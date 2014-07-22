@@ -20,6 +20,7 @@ namespace ArchersBox
         public void func()
         {
             int i = 0;
+            int b = 0;
         }
     }
 }
